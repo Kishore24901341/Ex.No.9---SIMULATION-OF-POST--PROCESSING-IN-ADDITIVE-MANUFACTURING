@@ -48,8 +48,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/9feabf5f-8077-49e6-a500-47771c9235de)
 
-### Name:JEYAPRIYA.J
-### Register Number:212224100027
+### Name:AARON ALEX.P
+### Register Number:212224230002
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
